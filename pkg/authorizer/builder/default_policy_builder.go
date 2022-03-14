@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/aws/aws-lambda-go/events"
-	"github.com/nordcloud/cognito-authorizer/pkg/authorizer"
+	"github.com/sijmenaukema/cognito-authorizer/pkg/authorizer"
 	log "github.com/sirupsen/logrus"
 )
 
