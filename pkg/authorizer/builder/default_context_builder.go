@@ -3,7 +3,7 @@ package builder
 import (
 	"strings"
 
-	"github.com/nordcloud/cognito-authorizer/pkg/authorizer"
+	"github.com/sijmenaukema/cognito-authorizer/pkg/authorizer"
 	log "github.com/sirupsen/logrus"
 )
 
